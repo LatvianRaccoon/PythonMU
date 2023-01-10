@@ -33,3 +33,5 @@ for tup in tups:
     seconds.append(tup[1])
 
 print(seconds)
+
+
