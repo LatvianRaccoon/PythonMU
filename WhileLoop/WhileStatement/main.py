@@ -22,10 +22,10 @@ while count <= 15:
 print(eve_nums)
 
 myList = [0, 9, 4.5, 1, 7, 4, 8, 9, 3]
-new_list = []
 
 
 def stop_at_four(lst):
+    new_list = []
     item1 = 0
     while item1 < len(lst) and lst[item1] != 4:
         new_list.append(lst[item1])
