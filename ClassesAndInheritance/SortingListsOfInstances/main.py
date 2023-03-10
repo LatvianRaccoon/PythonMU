@@ -13,6 +13,7 @@ fruit_list = [
     Fruit('Blueberry', 20),
 ]
 
+
 for fruit in sorted(fruit_list, key=Fruit.sort_priority):
     print(fruit.name)
 
