@@ -29,3 +29,4 @@ point_2 = Point(3, 12)
 print(point_1.graph())
 print()
 print(point_2.graph())
+
